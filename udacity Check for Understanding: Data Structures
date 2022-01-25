@@ -1,0 +1,9 @@
+Which of the following statements about dictionaries are true? Select all that apply.
+
+
+you understand the properties of a dictionary! A dictionary is a mutable, unordered data structure that contains mappings of keys to values. Because these keys are used to index values, they must be unique and immutable. For example, a string or tuple can be used as the key of a dictionary, but if you try to use a list as a key of a dictionary, you will get an error.
+
+
+A dictionary is mutable data structure
+A dictionary can be indexed using keys
+The keys of a dictionary is unique
