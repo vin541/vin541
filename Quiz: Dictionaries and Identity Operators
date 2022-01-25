@@ -1,0 +1,3 @@
+Which of these could be used as the key for a dictionary? (Choose all that apply.) Hint: Dictionary keys must be immutable, that is, they must be of a type that is not modifiable.
+
+Answer : str,int,float.
