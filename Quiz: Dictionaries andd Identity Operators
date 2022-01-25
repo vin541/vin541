@@ -1,0 +1,3 @@
+What happens if we look up a value that isn't in the dictionary? Create a test dictionary and use the square brackets to look up a value that you haven't defined. What happens?
+
+A KeyError occurs. It would be cool if Python could search the Internet for the answer to any question, but if Python were that smart the world wouldn't need programmers! The other two options are possible with a bit more programming, but they are not how dictionaries work on their own.
