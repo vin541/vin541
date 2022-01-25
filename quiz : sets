@@ -1,0 +1,8 @@
+What would the output of the following code be?
+
+a = [1, 2, 2, 3, 3, 3, 4, 4, 4, 4]
+b = set(a)
+print(len(a) - len(b))
+
+
+Answer : That's right. List a has 10 elements, while the set b (created from the list a) has 4 elements because the are 4 unique elements in a. 10 - 4 = 6.
